@@ -1,0 +1,35 @@
+.skills{
+    background-color:rgb(165, 120, 233);
+    color: white;
+    display: flex; 
+    justify-content: center;
+    
+    
+} 
+
+ul{
+    list-style: none;
+} 
+
+.big{
+    background-color:rgb(165, 120, 233);
+    color: white;
+    height: 400px;
+} 
+
+.prog{
+    display:flex; 
+    justify-content: center; 
+    margin-top: 50px;
+    
+    
+    
+
+} 
+.title{
+    color:red;
+} 
+
+.marg{
+    margin-left: 50px;
+}

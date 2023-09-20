@@ -1,0 +1,12 @@
+button{
+    background-color:palevioletred; 
+    color: white;
+    width: 200px; 
+    height: 50px;
+    font-weight: bold;
+    border-radius: 40%;
+} 
+
+button:hover{
+    background-color: purple;
+}
